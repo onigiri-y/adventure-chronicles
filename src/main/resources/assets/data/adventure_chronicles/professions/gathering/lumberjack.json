@@ -1,0 +1,20 @@
+{
+  "type": "normal",
+  "category": "gathering",
+  "name": "profession_name.adventure_chnicles.lumberjack",
+  "description": "profession_description.adventure_chronicles.lumberjack",
+  "level": [
+  {
+    "level": 1,
+    "description": ""
+  },
+  {
+    "level": 2,
+    "description": ""
+  },
+  {
+    "level": 3,
+    "description": ""
+  }
+  ]
+}

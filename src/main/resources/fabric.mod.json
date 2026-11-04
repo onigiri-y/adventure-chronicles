@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "adventure_chronicles",
+  "version": "${version}",
+  "name": "Adventure Chronicles",
+  "description": "Story and progression systems for Jornadas Cobblemon.",
+  "authors": ["Adventure Chronicles Team"],
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.adventurechronicles.AdventureChronicles"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
